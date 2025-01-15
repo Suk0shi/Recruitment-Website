@@ -1,10 +1,13 @@
 import '../styles/Opportunities.css'
+import Header from '../components/Header'
 
 function Opportunities() {
 
   return (
     <>
-      Opportunities Page
+      <Header/>
+      <p>Opportunities Page</p>
+      
     </>
   )
 }
